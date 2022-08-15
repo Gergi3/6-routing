@@ -7,7 +7,7 @@ function App() {
             <Navigation />
             
             <div className="App">
-                <h1>Waa</h1>
+                <h1>Star Wars 🎬</h1>
 
                 <AppRouter />
             </div>
